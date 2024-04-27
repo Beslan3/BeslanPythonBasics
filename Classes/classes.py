@@ -4,7 +4,7 @@
 # OBJECT is an instance of a class (creating object from the class(model)
 # += operator adds two values together and assigns the final value to a variable.
 
-class DogSUPUERPUPERDOGG():
+class DogGGGI():
     """A simple attempt to model a dog"""
 
     def __init__(self, name, age):
